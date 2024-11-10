@@ -10,6 +10,7 @@ pytest main.py
 Опциональные параметры 
 --browser
 (Возможные значения chrome, firefox)
+
 --browser_version
 
 Комментарии по заданию:
