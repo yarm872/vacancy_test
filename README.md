@@ -1,9 +1,9 @@
 Инструкция:
 Установка необходимых библиотек: 
-pip install -r requirements.txt
-либо просто 
-pip install pytest
-pip install selenium
+1. pip install -r requirements.txt
+2. либо просто
+  pip install pytest
+  pip install selenium
 
 Запуск:
 pytest main.py
